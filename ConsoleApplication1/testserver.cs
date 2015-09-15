@@ -16,7 +16,6 @@ namespace ConsoleApplication1
         public void Run(IAppBuilder builder)
         {
             builder.AddGameScene();
-
         }
     }
 
